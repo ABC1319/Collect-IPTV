@@ -12,7 +12,7 @@
 详细免责声明请参阅 [`DISCLAIMER.md`](./DISCLAIMER.md)。
 ---
 ## 📺️TV station list
-https://zilong7728.github.io/Collect-IPTV/
+https://abc11319.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
 <!-- Last Run Time --> 2026-05-10 20:59:21 CST
 ## 🔗Generated File Link
@@ -25,4 +25,4 @@ https://zilong7728.github.io/Collect-IPTV/
 3. 节目源每 4 小时自动更新，建议定期重新下载
 ## ⭐️Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zilong7728/Collect-IPTV&type=Date)](https://star-history.com/#zilong7728/Collect-IPTV&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abc1319/Collect-IPTV&type=Date)](https://star-history.com/#abc1319/Collect-IPTV&Date)
